@@ -105,7 +105,6 @@ Key Findings
 - Cookie security flags missing
 
 - Information disclosure via responses
-##
 
 ---
 ⭐ Final Result
