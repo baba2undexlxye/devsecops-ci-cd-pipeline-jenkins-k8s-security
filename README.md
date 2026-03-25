@@ -64,6 +64,11 @@ Responsible for:
 ##
 🔗 How Both Repos Work Together
 <img width="4143" height="526" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/6719f892-322b-4c37-a691-a9c0d782a70f" />
+---
+⚙️ End-to-End Workflow
+
+<img width="4126" height="1370" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/14a6080f-eefe-4794-a222-f5f6b4e149ac" />
+
 ## 🏗️ Architecture Diagram
 <img width="952" height="1616" alt="mermaid-diagram2" src="https://github.com/user-attachments/assets/97a9155c-78e5-4ce1-a9cd-2528dbc578b7" />
 ##
